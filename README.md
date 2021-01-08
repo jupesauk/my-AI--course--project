@@ -1,5 +1,5 @@
 
-# AI Project for mteching up achievemnets in diffreent sports
+# AI Project for matching up achievemnets in different sports
 
 Final project for the Building AI course MOOC at Uni of Helsinki
 
